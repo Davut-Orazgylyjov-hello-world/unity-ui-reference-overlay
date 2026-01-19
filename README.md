@@ -48,4 +48,16 @@ Click on the color field to open the color picker and change the overlay image c
 
 ## License
 
-*(Optional: Add your license information here, e.g., MIT, Apache 2.0, etc.)*
+This project is licensed under the **Apache License 2.0** with the **Commons Clause**.
+
+### What this means:
+
+- ✅ You are free to use, modify, and contribute to the source code.
+- ✅ You may use this tool in **commercial Unity projects** (games, applications, client work).
+- ✅ You may fork the repository and improve it.
+- ❌ You may **NOT sell, sublicense, or distribute this tool itself** as a paid product,
+  including selling it on asset stores or bundling it into paid toolkits.
+
+### License files:
+- Apache License 2.0
+- Commons Clause License
