@@ -1,4 +1,4 @@
-# Pixel Perfect Overlay
+# UI Reference Overlay
 
 **Description:**  
 A Unity Editor tool that allows you to overlay images on top of your UI and Scene/Game views to check pixel-perfect alignment.
@@ -17,7 +17,7 @@ A Unity Editor tool that allows you to overlay images on top of your UI and Scen
 
 ## How to Open the Panel
 
-Go to **Tools → Pixel Perfect Overlay** in the Unity Editor menu:
+Go to **Tools → UI Reference Overlay** in the Unity Editor menu:
 
 ![Open Panel](https://github.com/user-attachments/assets/e80edb1c-3574-4e3a-a56e-732004340928)
 
